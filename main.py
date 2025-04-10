@@ -1,3 +1,4 @@
+app = Flask(__name__)
 import os
 import json
 import logging
